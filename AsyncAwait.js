@@ -3,7 +3,6 @@
 //     resolve(add(2, 2));
 // });
 
-
 // promiseFunction.then(function (response) {
 //     console.log(response);
 // }).catch(function (error) {
